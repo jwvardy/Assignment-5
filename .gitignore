@@ -1,0 +1,4 @@
+# .gitignore Assignment-5
+*.log
+node_modules/
+.env
